@@ -138,6 +138,9 @@ Validate the HTML and CSS code.
 </html>
 ```
 ## OUTPUT:
+![bedited](https://user-images.githubusercontent.com/119094390/214648643-83fcbecb-da60-4d19-b348-dba6ed12f1e4.jpg)
+
 
 ## Result:
 
+Thus the program is created to display book-cover-page
